@@ -1,8 +1,11 @@
-## Welcome to GitHub Pages
+## ShanghaiTech Automation and Robotics Datasets
 
-You can use the [editor on GitHub](https://github.com/star-datasets/star-datasets.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Welcome to the dataset collection of the ShanghaiTech Automation and Robotics Center ([STAR Center](https://star-center.shanghaitech.edu.cn/)) of the School of Information Science and Technology ([SIST](https://sist.shanghaitech.edu.cn/sist_en/)), [ShanghaiTech University](https://www.shanghaitech.edu.cn/eng/).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Currently datasets are provided by the following labs of the STAR Center:
+- [Mobile Perception Lab](http://mpl.sist.shanghaitech.edu.cn/) of Prof. [Laurent Kneip](http://mpl.sist.shanghaitech.edu.cn/Director.html)
+- [Mobile Autonomous Robotic Systems Lab](https://robotics.shanghaitech.edu.cn/) of Prof. [Sören Schwertfeger](https://robotics.shanghaitech.edu.cn/people/soeren)
+
 
 ### Markdown
 
