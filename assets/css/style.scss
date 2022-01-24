@@ -1,4 +1,89 @@
 ---
 ---
 
-@import "{{ site.theme }}";
+@import 'jekyll-theme-leap-day';
+
+.wrapper{
+	width: 750px;
+}
+section{
+	width: 800px;
+}
+footer{
+	margin-left: -590px;
+}
+
+#banner .fork{
+	margin-left: -370px;
+}
+
+
+@media print, screen and (max-width: 1060px) {
+
+
+
+  section {
+    border:1px solid #e5e5e5;
+    border-width:1px 0;
+    padding:20px 5px;
+    margin: 190px auto 20px;
+    max-width: 800px;
+  }
+
+  footer {
+  	margin-left: -130px;
+  }
+
+
+}
+
+@media print, screen and (max-width: 720px) {
+
+  section {
+    margin-top: 130px;
+    margin-bottom: 0px;
+    width: auto;
+    padding:20px 5px;
+    padding-top:80px;
+
+  }
+
+  #banner .fork{
+		margin-left: 0px;
+   }
+
+   #banner{
+   	height: 110px;
+
+   }
+
+
+}
+
+#banner .fork {
+	background-color: transparent;
+
+}
+
+#datasets {
+
+ list-style-type: none;
+ 	
+ img{
+	float: left; 
+	padding: 5px; 
+	width: 300px
+ }
+
+}
+
+#datasets>li{
+     clear: both;
+}
+
+#datasets>li>ul>li{
+	 list-style-type: disc;
+	 margin-left: 310px
+}
+
+
