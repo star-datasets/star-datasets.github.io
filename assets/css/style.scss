@@ -64,7 +64,21 @@ nav{
    	height: 110px;
 
    }
+}
 
+
+@media print, screen and (max-width: 480px) {
+  #banner {
+      display: block;
+  }
+
+  #banner fork{
+    position: relative;
+  }
+
+  #banner {
+    position: relative;
+  }
 
 }
 
