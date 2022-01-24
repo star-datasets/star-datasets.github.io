@@ -18,9 +18,13 @@ Datasets from the ShanghaiTech Automation and Robotics Center ([STAR Center](htt
 				9x RGB camera (5MP, 10Hz)<br>
 				2x 32beam Velodyne LiDAR<br>
 			1x IMU</li>
+			<li> Duration: 704sec</li>
+			<li> Distance: 177m</li>
 			<li> Size: 120GB</li>
-			<li> Format: ROS Bag</li> 
+			<li> Scene: Indoor Lab</li> 
+			<li> Format: ROS 1 Bag</li> 
 			<li> Ground truth: Tracking System, ground truth map</li>
+			<li> Paper: Chen et al. <a href="https://doi.org/10.1016/j.robot.2020.103559" target="_blank">Advanced mapping robot and high-resolution dataset</a>, Robotics and Autonomous Systems, Elsevier, 2020</li>
 		</ul>
 	</li>	<li> 
 	  <img src="/imgs/vins-rgbd.jpg"/>
@@ -28,9 +32,13 @@ Datasets from the ShanghaiTech Automation and Robotics Center ([STAR Center](htt
 	  Three datasets collected with an Intel RealSense camera (Handheld, wheeled & tracked robot).
 		<ul>
 			<li> Sensor: RGBD: IntelRealsense D435i with IMU</li>
+			<li> Duration: 585 sec</li>   
+			<li> Distance: 50 m</li> 
 			<li> Size: 16GB</li>
-			<li> Format: ROS Bag</li> 
+			<li> Scene: Indoor Lab</li> 
+			<li> Format: ROS 1 Bag</li> 
 			<li> Ground truth: Tracking System</li>
+			<li> Paper: Shan et al. <a href="https://doi.org/10.3390/s19102251" target="_blank">RGBD-Inertial Trajectory Estimation and Mapping for Ground Robots</a>, Sensors, MDPI, 2019</li>
 		</ul>
 	</li>
 </ul>

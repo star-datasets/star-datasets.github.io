@@ -26,8 +26,29 @@ nav{
    width: 40px;
 }
 
-@media print, screen and (max-width: 1060px) {
+@media print, screen and (max-width: 10000px) {
 
+
+  #datasets>li>ul>li{
+     list-style-type: disc;
+     margin-left: 310px;
+  }
+
+  #datasets {
+
+   list-style-type: none;
+    
+   img{
+    float: left; 
+    padding: 5px; 
+    width: 300px
+   }
+
+  }
+  
+}
+
+@media print, screen and (max-width: 1060px) {
 
 
   section {
@@ -70,20 +91,35 @@ nav{
 @media print, screen and (max-width: 480px) {
   #banner {
       display: block;
+      float: none;
+      height: auto;
+  }
+
+  #banner ul{
+    float: none;
   }
 
   #banner .fork{
     position: relative;
+    float: none;
   }
 
   #banner {
     position: relative;
+    top: 0px;
   }
 
-#datasets>li>ul>li{
-   list-style-type: disc;
-   margin-left: 0px
-}
+  #datasets>li>ul>li{
+     margin-left: 0px;
+  }
+
+  #datasets img{
+    float: none;
+  }
+
+  section{
+  margin-top: 10px;
+  }
 
 }
 
@@ -92,25 +128,10 @@ nav{
 
 }
 
-#datasets {
-
- list-style-type: none;
- 	
- img{
-	float: left; 
-	padding: 5px; 
-	width: 300px
- }
-
-}
 
 #datasets>li{
      clear: both;
 }
 
-#datasets>li>ul>li{
-	 list-style-type: disc;
-	 margin-left: 310px
-}
 
 
