@@ -13,5 +13,5 @@ Currently datasets are provided by the following labs of the STAR Center:
 - [Mobile Perception Lab](http://mpl.sist.shanghaitech.edu.cn/) of Prof. [Laurent Kneip](http://mpl.sist.shanghaitech.edu.cn/Director.html)
 - [Mobile Autonomous Robotic Systems Lab](https://robotics.shanghaitech.edu.cn/) of Prof. [Sören Schwertfeger](https://robotics.shanghaitech.edu.cn/people/soeren)
 
-
- 
+News
+- Mar 2022: We are releasing our new dataset entitled [VECtor Benchmark](https://star-datasets.github.io/vector/)! Details can be found under [Event Camera](https://star-datasets.github.io/event) page.
