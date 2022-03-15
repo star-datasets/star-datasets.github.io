@@ -10,7 +10,7 @@ Datasets from the ShanghaiTech Automation and Robotics Center ([STAR Center](htt
 
 <ul id="datasets">
 	<li> 
-	  <img src="/imgs/vector.png"/>
+	  <img src="/imgs/vector.jpg"/>
       <h3><a target="_blank" href="https://star-datasets.github.io/vector/">VECtor Benchmark</a></h3>
 	  Containing 12 + 7 hardware-synchronized, multi-modal data sequences.
 		<ul>
